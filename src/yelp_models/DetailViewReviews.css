@@ -1,0 +1,84 @@
+.appdiv {
+    height: 100vh;
+  }
+  
+  .appdiv h1 {
+    margin: 0 auto;
+  }
+
+  .card{
+    background-color: #d3d3d3 ;
+    transform: translateX(35%) translateY(10%);
+    margin: auto;
+    width: 50%;
+    height: auto;
+    padding: 35px;
+    position: absolute;
+    font-family: monospace;
+    border-radius: 10px;
+    background: linear-gradient(135deg, lightyellow 30%, lightpink);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  }
+
+  .detailImg {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .columnDetail {
+    display: flex;
+  }
+
+  .rowDetail {
+    background-color: antiquewhite;
+    margin: 2px;
+    border: 2px;
+  }
+
+  .rest_picture {
+    width: 300px;
+    height: auto;
+    border: 5px solid #555;
+    border-radius: 5%;
+  }
+
+
+.mytabs {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 25px;
+    border-radius: 5px;
+}
+.mytabs input[type="radio"] {
+    display: none;
+}
+.mytabs label {
+    padding: 25px;
+    width: 20%;
+    background: #e0d9d9;
+    font-weight: bold;
+}
+
+.mytabs .tab {
+    width: 100%;
+    padding: 20px;
+    background: #fff;
+    order: 1;
+    display: none;
+    border-radius: 5px;
+    align-content: center;
+}
+.mytabs .tab h2 {
+    font-size: 3em;
+}
+
+.mytabs input[type='radio']:checked + label + .tab {
+    display: block;
+}
+
+.mytabs input[type="radio"]:checked + label {
+    background: #fff;
+}

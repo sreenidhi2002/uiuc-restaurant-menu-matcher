@@ -1,0 +1,110 @@
+  .logo {
+    display: flex;
+    align-items: left; 
+    justify-content: left; 
+    text-align: left;
+    align-self:left;
+  }
+  
+  .address_search_bar{
+    padding: 5%;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+  }
+  
+  .sorting_options {
+    padding: 0 0 5%;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+  }
+  
+  .cuisine_drop_down_menu {
+    padding: 0 5%;
+  }
+  
+  .logo {
+    padding: 10%;
+  }
+  
+  .non_logo {
+    text-align: left;
+  }
+  
+  .RestaurantName {
+    padding-top: 10px;
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
+  .RestaurantAddress {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .RestaurantCuisine {
+    font-size: 17px;
+  }
+  
+  .icons {
+    padding-top: 10px;
+  }
+  
+  .RestaurantListView {
+      text-align: center; 
+      display: flex;
+      flex-direction: column; 
+      align-items: center; 
+      justify-content: center;
+      padding: 5%;
+  }
+  
+  .Container {
+      height: 900px;
+      width: 800px;
+      background-color: #6293CC;
+      border-radius: 10px;
+  }
+  
+  .non_logo {
+      display: flex;
+    flex-direction: column;
+      align-items: left;
+  }
+  
+  .UserInfoContainer {
+      display: flex;
+      align-items: center;
+      /* justify-content: center; */
+      /* border: 2px solid orange; */
+      margin: 0 5vw;
+      padding: 1%;
+      height:fit-content
+  }
+  
+  .UserInfo {
+      border: 2px solid red; 
+      height:100%;
+      margin-left:20px; 
+      width:70%;
+  }
+  
+  .icons {
+    display: flex; 
+    flex-direction: row;
+  }
+  
+  .icon_holder {
+    padding-right: 10px;
+  }
+  
+  .RestaurantItem {
+      margin: 0 5vw;
+      height: 20%;
+      background-color: white;
+      border-radius: 10px;
+      display: flex; 
+  }
+
+  

@@ -1,0 +1,200 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../assets/fonts/Poppins/Poppins-Regular.ttf');
+    font-weight: normal;
+}
+
+.detail-view-header {
+    display: flex;
+}
+.detail-view-title {
+    align-items: flex-start;
+    padding-left: 50px;
+}
+
+.detail-view-user {
+    align-items: flex-end;
+    padding-left: 65%;
+    text-decoration: underline;
+}
+
+.detail-view-content {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins';
+    background-color: #d5e5f7;
+}
+
+.content-box {
+    width:60%;
+    background: #6293CC;
+    border-radius: 25px;
+    margin:auto;
+}
+
+.restaurant-header {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.box-inner {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.inner-content-box {
+    width:70%;
+    background: white;
+    border-radius: 25px;
+    margin:auto;
+}
+
+.inner-content-header {
+    margin: auto;
+    width: 30%;
+    padding-top: 30px;
+    color: black;
+}
+
+.nav-option {
+    display: flex;
+    padding-bottom: 20px;  
+    justify-content: center;
+}
+
+.detail-menu.selected{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+    border-radius: 9px;
+    min-width: 100px;
+    text-decoration: none;
+    text-align:center;
+    vertical-align: middle;
+}
+
+.detail-reviews{
+    display:inline-block;
+    padding:0.3em 1.2em;
+    margin:0 0.1em 0.1em 0;
+    border:0.16em solid rgba(255,255,255,0);
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Poppins';
+    font-weight:300;
+    color:#FFFFFF;
+    background-color: #f1bb4e;
+    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+    text-align:center;
+    transition: all 0.2s;
+    margin:0.2em auto;
+    min-width: 100px;
+    height: 50px;
+    margin: 0 20px;
+}
+
+.detail-reviews:hover,
+.detail-reviews:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em #f1bb4e;
+  transform: translateY(-0.25em);
+  border-color: #f1bb4e;
+  color: black;
+}
+
+.button {
+    background: none;
+    font: inherit;
+    line-height: 2;
+    margin: 0.5em;
+    padding: 1em 2em;
+    font-family: 'Poppins';
+    font-weight: 300;
+    width: 100px;
+  }
+
+
+.inner-contents {
+    color: black;
+    padding-left: 50px;
+    padding-bottom: 20px;
+
+    /* display: flex;
+    justify-content: center; */
+}
+
+.menu-header {
+    display: flex;
+    justify-content: flex-start;
+    color: black;
+}
+
+.menu-slider {
+    /* width: 0%; */
+    display: grid;
+    grid-auto-flow: column;
+    /* column-gap: 10px; */
+}
+
+.menu-item {
+    width: 100px;
+    height: 80px;
+    border-radius: 9px;
+    background-color: cornflowerblue;
+}
+
+.price-format {
+    text-align: right;
+    padding-right: 50px;
+}
+
+.dish-description{
+    font-size: 16px;
+    width: 70%;
+    transform: translateY(-10px);
+}
+
+.category-title{
+    color: cornflowerblue;
+    font-size: 25px;
+    padding-top: 25px;
+}
+
+.category-text {
+    width: 90%;
+}
+
+.favorite{
+    background-color: palevioletred;
+    margin:0;
+    height: 40px;
+}
+
+.unfavorite{
+    background-color: darkred;
+    margin:0;
+    height: 40px;
+}
+
+.rest_title  h1 {
+text-align: center;
+    font-size:30px; font-weight:300; color:#222; letter-spacing:1px;
+    text-transform: uppercase;
+
+    display: grid;
+    grid-template-columns: 1fr max-content 1fr;
+    grid-template-rows: 27px 0;
+    grid-gap: 20px;
+    align-items: center;
+}
+
+.rest_title { color: #000; font-family: 'Poppins'; overflow-wrap: break-word ;text-shadow: 1px 1px 2px; font-size: 100px; font-weight: normal; margin: 20px 10px; text-align: center; text-shadow: 1px 1px 2px #082b34; }
+
+.no_menu {
+    padding-right: 10%;
+}

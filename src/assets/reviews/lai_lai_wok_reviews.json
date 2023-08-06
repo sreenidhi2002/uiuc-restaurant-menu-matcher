@@ -1,0 +1,47 @@
+{
+    "reviews": [
+      {
+        "id": "BfE7mNlMFpkURgC8_12eSA",
+        "url": "https://www.yelp.com/biz/lai-lai-wok-champaign?adjust_creative=eL75PEDehXcsxUnhLGP6HA&hrid=BfE7mNlMFpkURgC8_12eSA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=eL75PEDehXcsxUnhLGP6HA",
+        "text": "Stopped in here on the way back from southern Illinois looking for good food while on the road. We gave this place a shot since it had 4 stars on Yelp. In...",
+        "rating": 4,
+        "time_created": "2022-11-25 14:48:31",
+        "user": {
+          "id": "BvoOeNa0xNnnCSj8A5H_BA",
+          "profile_url": "https://www.yelp.com/user_details?userid=BvoOeNa0xNnnCSj8A5H_BA",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/photo/VtXOLQgPYyayfl9lEQ9iSw/o.jpg",
+          "name": "Christopher D."
+        }
+      },
+      {
+        "id": "RitRqvfangnKRU--FsdxAA",
+        "url": "https://www.yelp.com/biz/lai-lai-wok-champaign?adjust_creative=eL75PEDehXcsxUnhLGP6HA&hrid=RitRqvfangnKRU--FsdxAA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=eL75PEDehXcsxUnhLGP6HA",
+        "text": "Excellent food, quick service, and good ambiance. Location on green st is convenient as well. I would highly recommend this restaurant. Marrow bone soup is...",
+        "rating": 5,
+        "time_created": "2022-12-09 04:52:17",
+        "user": {
+          "id": "f4Xaq2JsU4fp1ItXxMl8EQ",
+          "profile_url": "https://www.yelp.com/user_details?userid=f4Xaq2JsU4fp1ItXxMl8EQ",
+          "image_url": null,
+          "name": "Luopeng Z."
+        }
+      },
+      {
+        "id": "3zZ9IvrV2DgB5-XD907tdQ",
+        "url": "https://www.yelp.com/biz/lai-lai-wok-champaign?adjust_creative=eL75PEDehXcsxUnhLGP6HA&hrid=3zZ9IvrV2DgB5-XD907tdQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=eL75PEDehXcsxUnhLGP6HA",
+        "text": "This Chinese restaurant has got to be the best kept secret in Urbana. Casual, authentic Asian food at reasonable prices.\n\nTry the Japanese fried tofu, stir...",
+        "rating": 5,
+        "time_created": "2022-10-06 17:26:30",
+        "user": {
+          "id": "lQ45TDkvvjfbHg04-H1hpA",
+          "profile_url": "https://www.yelp.com/user_details?userid=lQ45TDkvvjfbHg04-H1hpA",
+          "image_url": null,
+          "name": "Molly O."
+        }
+      }
+    ],
+    "total": 138,
+    "possible_languages": [
+      "en"
+    ]
+  }

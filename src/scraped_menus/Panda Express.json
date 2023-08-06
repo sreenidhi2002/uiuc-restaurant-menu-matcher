@@ -1,0 +1,182 @@
+{
+    "address": "627 S Wright St, Champaign, IL 61820",
+    "city": "Urbana",
+    "currency": "USD",
+    "id": "808360",
+    "menu": [
+        {
+            "category": "Plate",
+            "items": [
+                {
+                    "description": "Choose any 2 half sides and 2 entrees.",
+                    "price": 9.55,
+                    "title": "Build Your Own Plate - 2 Half Sides"
+                },
+                {
+                    "description": "Choose any 1 full side and 2 entrees.",
+                    "price": 9.55,
+                    "title": "Build Your Own Plate - 1 Full Side"
+                }
+            ]
+        },
+        {
+            "category": "Bigger Plate",
+            "items": [
+                {
+                    "description": "Choose any 2 half sides and 3 entrees.",
+                    "price": 11.40,
+                    "title": "Build Your Own Bigger Plate - 2 Half Sides"
+                },
+                {
+                    "description": "Choose any 1 full side and 3 entrees.",
+                    "price": 4.59,
+                    "title": "Cheese Dog"
+                }
+            ]
+        },
+        {
+            "category": "Bowl",
+            "items": [
+                {
+                    "description": "Choose any 2 half sides and 1 entree.",
+                    "price": 7.75,
+                    "title": "Build Your Own Bowl - 2 Half Sides"
+                },
+                {
+                    "description": "Choose any 1 full side and 1 entree.",
+                    "price": 7.75,
+                    "title": "Build Your Own Bowl - 1 Full Side"
+                }
+            ]
+        },
+        {
+            "category": "Family Feast",
+            "items": [
+                {
+                    "description": "Choose any 4 large half sides and 3 large entrees.",
+                    "price": 35.00,
+                    "title": "Family Feast - 4 Half Sides"
+                },
+                {
+                    "description": "Choose any 2 large full sides and 3 large entrees.",
+                    "price": 35.00,
+                    "title": "Family Feast - 2 Full Sides"
+                }
+            ]
+        },
+        {
+            "category": "Cub Meal",
+            "items": [
+                {
+                    "description": "2 half Jr. Sides, 1 Jr. Entree, Fruit Side & Bottled Water",
+                    "price": 6.55,
+                    "title": "Cub Meal - 2 Half Sides"
+                },
+                {
+                    "description": "1 Jr. Side, 1 Jr. Entree, Fruit Side & Bottled Water",
+                    "price": 6.55,
+                    "title": "Cub Meal - 1 Full Side"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Veggie Spring Rolls are prepared with a mixture of cabbage, celery, carrots, green onions and Chinese noodles wrapped in a thin wonton wrapper and cooked to a golden brown.",
+                    "price": 2.35,
+                    "title": "Veggie Spring Rolls (2)"
+                },
+                {
+                    "description": "Cream Cheese Rangoons are prepared with a crisp wonton wrapper filled with a mixture of soft cream cheese and green onions, served with a side of sweet and sour sauce for dipping.",
+                    "price": 2.35,
+                    "title": "Cream Cheese Rangoons (3)"
+                },
+                {
+                    "description": "Chicken Egg Rolls are prepared with a mixture of cabbage, carrots, green onions and marinated chicken wrapped in a thin wonton wrapper and cooked to a golden brown.",
+                    "price": 2.35,
+                    "title": "Chicken Egg Roll"
+                }
+            ]
+        },
+        {
+            "category": "Sides - A La Carte",
+            "items": [
+                {
+                    "description": "Chow Mein is prepared with our noodles, tossed in the wok with shredded onions, crisp celery and fresh cabbage.",
+                    "price": 3.90,
+                    "title": "Side Chow Mein"
+                },
+                {
+                    "description": "White Steamed Rice is prepared by steaming white rice to perfection.",
+                    "price": 3.90,
+                    "title": "Side White Steamed Rice"
+                },
+                {
+                    "description": "Fried rice is prepared with steamed white rice that is tossed in the wok with soy sauce, sweet corn, greens peas, carrots and chopped green onions.",
+                    "price": 3.90,
+                    "title": "Side Fried Rice"
+                }
+            ]
+        },
+        {
+            "category": "Entrees - A La Carte",
+            "items": [
+                {
+                    "description": "Large tempura-battered shrimp, wok-tossed in a honey sauce and topped with glazed walnuts.",
+                    "price": 6.60,
+                    "title": "Honey Walnut Shrimp"
+                },
+                {
+                    "description": "A classic favorite. Tender beef and fresh broccoli in a ginger soy sauce.",
+                    "price": 5.10,
+                    "title": "Broccoli Beef"
+                },
+                {
+                    "description": "Our signature dish. Crispy chicken wok-tossed in a sweet and spicy orange sauce. Spicy.",
+                    "price": 5.10,
+                    "title": "Orange Chicken"
+                },
+                {
+                    "description": "",
+                    "price": 2.35,
+                    "title": "Chicken Egg Roll"
+                },
+                {
+                    "description": "",
+                    "price": 2.35,
+                    "title": "Cream Cheese Rangoon"
+                },
+                {
+                    "description": "A Sichuan-inspired dish with chicken, peanuts and vegetables, finished with chili peppers. Spicy.",
+                    "price": 5.10,
+                    "title": "Kung Pao Chicken"
+                },
+                {
+                    "description": "Crispy, white-meat chicken, red bell peppers, onions and pineapples in a bright and sweet chili sauce. Spicy.",
+                    "price": 5.10,
+                    "title": "SweetFire Chicken Breast"
+                },
+                {
+                    "description": "A delicate combination of marinated chicken, mushrooms and zucchini wok-tossed with a light ginger soy sauce.",
+                    "price": 5.10,
+                    "title": "Mushroom Chicken"
+                },
+                {
+                    "description": "Crispy beef, red bell peppers and onions in a sweet-tangy sauce. Spicy.",
+                    "price": 5.10,
+                    "title": "Beijing Beef"
+                },
+                {
+                    "description": "",
+                    "price": 2.35,
+                    "title": "Veggie Spring Roll"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/il/urbana/808360-panda-express/menu/",
+    "name": "Panda Express",
+    "state": "Illinois",
+    "type": "Chinese"
+}

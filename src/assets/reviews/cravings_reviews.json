@@ -1,0 +1,47 @@
+{
+    "reviews": [
+      {
+        "id": "1rDg0fQXscpvVIpWEGFiXA",
+        "url": "https://www.yelp.com/biz/cravings-champaign-2?adjust_creative=eL75PEDehXcsxUnhLGP6HA&hrid=1rDg0fQXscpvVIpWEGFiXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=eL75PEDehXcsxUnhLGP6HA",
+        "text": "Crispy beef, eggplant with ground pork, and braised pork belly. Just writing about them give me a rush. After living in Champaign for 2 years and finally...",
+        "rating": 5,
+        "time_created": "2022-07-06 20:29:52",
+        "user": {
+          "id": "f07MfOA2cZBpHLRD_oUNQQ",
+          "profile_url": "https://www.yelp.com/user_details?userid=f07MfOA2cZBpHLRD_oUNQQ",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/photo/uRFNAIpVKGMItaPV4ZzS3w/o.jpg",
+          "name": "Sharon W."
+        }
+      },
+      {
+        "id": "ffWKD3B8jrsOfrhgflqCNQ",
+        "url": "https://www.yelp.com/biz/cravings-champaign-2?adjust_creative=eL75PEDehXcsxUnhLGP6HA&hrid=ffWKD3B8jrsOfrhgflqCNQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=eL75PEDehXcsxUnhLGP6HA",
+        "text": "I'm bummed I never got to try this place during undergrad but I finally did during my trip back to champaign to visit a friend. This is a great place for...",
+        "rating": 4,
+        "time_created": "2022-11-07 13:35:41",
+        "user": {
+          "id": "BUGHzQnNfK5HJMaPB9pJTQ",
+          "profile_url": "https://www.yelp.com/user_details?userid=BUGHzQnNfK5HJMaPB9pJTQ",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/photo/Mzz2C_zpD-t1v7n8a0yQ4Q/o.jpg",
+          "name": "Ariana G."
+        }
+      },
+      {
+        "id": "LeK6o3l1TJko3mvVEsrrhw",
+        "url": "https://www.yelp.com/biz/cravings-champaign-2?adjust_creative=eL75PEDehXcsxUnhLGP6HA&hrid=LeK6o3l1TJko3mvVEsrrhw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=eL75PEDehXcsxUnhLGP6HA",
+        "text": "Honestly my favorite Chinese food in the area. The owner and server are so, so nice, too. Order off the Chinese menu, not the English one, for the best...",
+        "rating": 5,
+        "time_created": "2021-11-20 05:30:57",
+        "user": {
+          "id": "jMYHRbl7PIgIvUj0nIbszw",
+          "profile_url": "https://www.yelp.com/user_details?userid=jMYHRbl7PIgIvUj0nIbszw",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/photo/i6VpUtGvYfeWPEH6IM_8-A/o.jpg",
+          "name": "Talia B."
+        }
+      }
+    ],
+    "total": 196,
+    "possible_languages": [
+      "en"
+    ]
+  }

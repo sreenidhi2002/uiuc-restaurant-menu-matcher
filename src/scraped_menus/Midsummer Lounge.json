@@ -1,0 +1,230 @@
+{
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.5,
+                    "title": "Arctic Ocean Orange Soda 北冰洋 桔汁汽水"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.0,
+                    "title": "Chinese Sweetened Herbal Tea 王老吉/加多宝"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.0,
+                    "title": "Coke"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.0,
+                    "title": "Bottled Water"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.0,
+                    "title": "Homemade Soybean Milk"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.0,
+                    "title": "Lemon Tea"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.5,
+                    "title": "Master Kong Green Tea 康师傅 绿茶"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.5,
+                    "title": "Master Kong Sweetened Iced Tea 康师傅 冰红茶"
+                }
+            ]
+        },
+        {
+            "category": "Appetizer",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "D1 Spicy Shredded Potato (Vegeterian) D1 炝拌土豆丝 (素)"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "D2 Cucumber In Garlic Vinaigrette (Vegetarian) D2 蒜泥拍黄瓜 (素)"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "D3 Spicy Chicken Gizzard D3 麻辣卤鸡胗"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "D4 Boneless Chicken Feet In Lemon Pepper Vinaigrette D4 柠檬泡椒凤爪(无骨)"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "D5 Sliced Beef Shank In Chili Sauce D5 五香酱牛肉"
+                }
+            ]
+        },
+        {
+            "category": "Chef's Special",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 15.00,
+                    "title": "C1 Signature Stewed Pork Over Rice C1 金牌卤肉饭"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 16.00,
+                    "title": "C2 Stewed Beef Consommé Noodle C2 兰州牛肉面"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 16.00,
+                    "title": "C3 Duck Broth Rice Noodle W/ Blood Curd C3 鸭血粉丝汤"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 16.00,
+                    "title": "C4 Mutton Soup Rice Noodle C4 羊肉粉丝汤"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 16.00,
+                    "title": "C5 Stewed Lamb Broth Sliced Noodle C5 羊肉烩面"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 16.00,
+                    "title": "C6 Bone Broth Vermicelli C6 桂林米粉"
+                }
+            ]
+        },
+        {
+            "category": "Dry Noodles",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "B1 Scallion Infused Oil Dry Noodle(Vegetarian) B1 本帮葱油拌面(素)"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "B2 Szechuan Style Cold Noodle (Vegetarian) B2 四川凉面(素)"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "B3 Bok Choy W. Chili Oil Sliced Noodle (Vegeterian) B3 陕西油泼面 (素)"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "B4 Tomato & Scrambled Egg Dry Noodle B4 番茄炒蛋面"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "B5 Spicy Ground Pork Dry Noodle B5 宜宾燃面"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "B6 Dan Dan Noodle B6 成都担担面"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "B7 Pork & Egg W/ Bean Sauce Dry Noodle B7 风味炸酱面"
+                }
+            ]
+        },
+        {
+            "category": "Soup Noodles",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 13.95,
+                    "title": "A1 Bok Choy In Chili Oil Noodle A1 红油素面 (素)"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 14.95,
+                    "title": "A2 Spicy Ground Pork Noodle A2 乐山臊子面"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 14.95,
+                    "title": "A3 Pickled Cabbage & Shredded Pork Noodle A3 雪菜肉丝面"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 14.95,
+                    "title": "A4 Spicy & Sour Rice Noodle (Vegeterian) A4 川西酸辣粉 (素)"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "A5 Spicy & Sour Rice Noodle W. Sliced Beef Shank A5 牛肉酸辣粉"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "A6 Szechuan Style Pork Rib Tip Noodle A6 川味排骨面"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "A7 Szechuan Style Beef Noodle A7 川味牛肉面"
+                }
+            ]
+        }
+    ],
+    "name": "Cravings",
+    "state": "Illinois",
+    "type": "Chinese"
+}

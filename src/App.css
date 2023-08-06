@@ -1,0 +1,51 @@
+
+.App-logo {
+  position:absolute;
+  height:50px;
+  left:10px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.Content-box{
+  padding-top:50px;
+  width:60%;
+  height:150px;
+  background: #6293CC;
+  border-radius: 25px;
+  margin:auto;
+}
+
+.Content-box p{
+  color:white;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.Search-bar{
+  height:50px;
+  width:80%;
+  margin:auto;
+  background-color:white;
+  position:relative;
+}
+input{
+  outline:none;
+  border-style:hidden;
+}
+input:focus{
+  outline:none;
+}
+.Search-bar input{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width:90%;
+}
+h2{
+  margin:0;
+}

@@ -1,0 +1,47 @@
+{
+    "reviews": [
+      {
+        "id": "_ZcBFlJ-sfObZ4UAwRLRVw",
+        "url": "https://www.yelp.com/biz/shawarma-joint-champaign-3?adjust_creative=eL75PEDehXcsxUnhLGP6HA&hrid=_ZcBFlJ-sfObZ4UAwRLRVw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=eL75PEDehXcsxUnhLGP6HA",
+        "text": "Good service and even better food! The building itself, clean and tidy. The workers were kind, and good at listening.",
+        "rating": 5,
+        "time_created": "2022-11-02 16:24:33",
+        "user": {
+          "id": "KaYdh4-Hog5WSWM7stbwYg",
+          "profile_url": "https://www.yelp.com/user_details?userid=KaYdh4-Hog5WSWM7stbwYg",
+          "image_url": null,
+          "name": "Alaina L."
+        }
+      },
+      {
+        "id": "8fxWMBLc0B9Cvp6ythjzsg",
+        "url": "https://www.yelp.com/biz/shawarma-joint-champaign-3?adjust_creative=eL75PEDehXcsxUnhLGP6HA&hrid=8fxWMBLc0B9Cvp6ythjzsg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=eL75PEDehXcsxUnhLGP6HA",
+        "text": "Delicious food with authentic flavor and big portions.\n\nThe only thing to note is that the greenstreet locations gets too crowded in the evening.",
+        "rating": 5,
+        "time_created": "2022-09-22 16:02:30",
+        "user": {
+          "id": "jJj4jUTYc1Xh4p6zBAQdIw",
+          "profile_url": "https://www.yelp.com/user_details?userid=jJj4jUTYc1Xh4p6zBAQdIw",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/photo/kSeieW8Rk7xfz3I0pFKcpA/o.jpg",
+          "name": "Charmaine E."
+        }
+      },
+      {
+        "id": "VM2aNMMYBjKMFkD9YslolA",
+        "url": "https://www.yelp.com/biz/shawarma-joint-champaign-3?adjust_creative=eL75PEDehXcsxUnhLGP6HA&hrid=VM2aNMMYBjKMFkD9YslolA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=eL75PEDehXcsxUnhLGP6HA",
+        "text": "Shady AF business practices. They offer a discount of 3% of you pay cash.  But if you look on the receipt, they deduct a cash discount, and then they add it...",
+        "rating": 1,
+        "time_created": "2022-11-25 22:06:17",
+        "user": {
+          "id": "-b1ZZqBciYl197c9KoF1hA",
+          "profile_url": "https://www.yelp.com/user_details?userid=-b1ZZqBciYl197c9KoF1hA",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/photo/q9d1j_4YnQ26n0FzfSGrUw/o.jpg",
+          "name": "Nigel Y."
+        }
+      }
+    ],
+    "total": 42,
+    "possible_languages": [
+      "en"
+    ]
+  }
