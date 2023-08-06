@@ -1,3 +1,6 @@
+# uiuc-restaurant-menu-matcher
+Matches uiuc students with restaurants of their choice by allowing them to input their desired menu item. Uses user location to determine and rank suggestions in order of ascending distance.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
